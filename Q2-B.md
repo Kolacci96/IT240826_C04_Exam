@@ -7,5 +7,5 @@ This site is specific to personalizing your PC. Does not inlcude any info on oth
 [Link](https://www.vskills.in/certification/tutorial/windows-user-interface-2/)
 
 This site is a general tutorial on the windows interface and how to navigate it. 
-It is a basic tutroial ofr beginners.
+It is a basic tutorial for beginners.
 
