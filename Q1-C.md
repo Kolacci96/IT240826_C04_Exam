@@ -1,6 +1,7 @@
 
 
 [Link](https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid) 
+
 This website lists 10 common Excel mistakes and how to avoid them. 
 Also inlcudes a video tutorial.
 
